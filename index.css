@@ -12,6 +12,7 @@ body{
 }
 #About{
     margin-top: -200px;
+    font-size: small;
 }
 #About .fa{
     color: #fff;
@@ -40,4 +41,13 @@ body{
 }
 #Experience .card{
     border-top: 3px red;
+}
+.need{
+    font-size: small;
+}
+.siz{
+    font-size: medium;
+}
+.cli{
+    height: 10px;
 }
